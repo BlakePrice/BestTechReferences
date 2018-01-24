@@ -232,3 +232,11 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+=== Suggestion by Blake Price =====================================
+
+Here is a great change for the Vim text editor!
+
+https://github.com/joshdick/onedark.vim
+
+===================================================================
